@@ -1,0 +1,81 @@
+
+.title {
+    font-size: 4rem;
+    padding: 1rem 1rem 1px;
+}
+
+.data {
+    background-color: orange;
+    position: relative;
+    border-radius: 25px;
+    display: inline-block;
+    padding: 1rem;
+}
+
+.flag {
+    size: 2px;
+}
+
+img {
+    padding-bottom: 3rem;
+    width: 175px;
+}
+
+#countryName {
+    font-size: 5rem;
+    margin-top: 1.5rem;
+    padding-left: 3rem;
+}
+
+.stats label {
+    padding: 2px;
+}
+
+.stats div {}
+
+.footer {
+    display: inline-block;
+    background-color: darkorange;
+    margin: auto 4rem 4rem;
+    box-shadow: 5px 10px rgb(0 0 0 / 19%);
+    border-radius: 15px;
+}
+
+footer label {
+    padding: 5px;
+}
+
+.dataLabel {
+    font-size: 1.5rem;
+}
+
+.numbers {
+    font-size: 1.5rem;
+    color: cornsilk;
+}
+
+.search {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 7px;
+    width: 25rem;
+    border-radius: 15px;
+    text-align: center;
+    border-color: gray;
+    outline: none;
+
+}
+input:hover {
+    border-color:darkorange;
+}
+
+#changeButton{
+    margin-bottom: 7px;
+    border-radius: 15px;
+    background-color: black;
+}
+
+#changeButton:hover{
+    background-color: orange;
+}
